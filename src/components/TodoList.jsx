@@ -77,7 +77,7 @@ const TodoList = () => {
                 placeholder='Add your todo'/>
                 
 
-                <button onClick={() => addTodo(textValue)} className='bg-orange-500 h-10 px-2 rounded-lg text-white cursor-pointer'>Add Todo</button>
+                <button onClick={() => addTodo(textValue)} className='bg-orange-500 h-10 px-4 rounded-lg text-white cursor-pointer'>Add Todo</button>
 
             </div>
 
